@@ -544,11 +544,11 @@ color: var(--white-color);
     .gallery-list{
         width: calc((100% - 48px) / 3);   
     }
-    .gallery-list:hover .cover-text{
+    .portfolio-card:hover .cover-text{
         transform: translateY(0);
     }
 
-    .gallery-list:focus .cover-text{
+    .portfolio-card:focus .cover-text{
         transform: translateY(0);
     }
 
